@@ -1,5 +1,4 @@
 import streamlit as st
-from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
 import pandas as pd
 
